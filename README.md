@@ -6,6 +6,8 @@ In mathematical optimization, the Ackley function is a non-convex function used 
 
 <img src="https://latex.codecogs.com/svg.latex?f(x_1,x_2)&space;=&space;-20exp{([0.2\sqrt{0.5(x_1^2&space;&plus;&space;x_2^2)}])}&space;-&space;exp{([0.5(\cos{2\pi&space;x_1}&space;&plus;&space;\cos{2\pi&space;x_2})])}&space;&plus;&space;e&space;&plus;20">
 
+<img src ="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ackley.gif">
+
 Credits : 
 
 1.   [Wiki](https://https://en.wikipedia.org/wiki/Ackley_function)
