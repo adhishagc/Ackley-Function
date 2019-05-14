@@ -12,4 +12,5 @@ Credits :
 
 1.   [Wiki](https://https://en.wikipedia.org/wiki/Ackley_function)
 2.   <a href="https://https://books.google.lk/books?id=sx_VBwAAQBAJ&printsec=frontcover&redir_esc=y#v=snippet&q=%22Ackley%20function%22&f=false">Ackley, D. H. (1987) "A connectionist machine for genetic hillclimbing"</a>
+3. camo.githubusercontent.com
 
