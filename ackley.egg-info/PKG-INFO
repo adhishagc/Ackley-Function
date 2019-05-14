@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ackley
+Version: 1.0.8
+Summary: A Python package to generate Ackley Function values.
+Home-page: https://github.com/adhishagc/Ackley-Function
+Author: Adhisha Gammanpila
+Author-email: adhishagc@gmail.com
+License: MIT
+Description: #Project Description
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown

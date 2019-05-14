@@ -1,2 +1,1 @@
-#Hello World
-This is a sample projects
+#Project Description

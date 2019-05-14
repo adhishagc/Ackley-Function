@@ -1,0 +1,8 @@
+MANIFEST.in
+README.md
+setup.py
+ackley.egg-info/PKG-INFO
+ackley.egg-info/SOURCES.txt
+ackley.egg-info/dependency_links.txt
+ackley.egg-info/requires.txt
+ackley.egg-info/top_level.txt
