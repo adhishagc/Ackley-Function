@@ -1,3 +1,23 @@
+**Installation**
+
+---
+
+To install Ackley Function library execute the following code
+
+```
+ pip install ackley
+```
+**Getting Started**
+
+---
+
+
+```
+ import ackley as ak
+```
+
+
+
 **Ackleys Function**
 
 ---
