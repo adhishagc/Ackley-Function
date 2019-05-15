@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="ackley",
-    version="1.0.8",
+    version="1.0.9.9",
     description="A Python package to generate Ackley Function values.",
     long_description=readme(),
     long_description_content_type="text/markdown",
