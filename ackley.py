@@ -1,6 +1,8 @@
 #importing libraries
 import numpy as np
+from matplotlib import pyplot as plt
 import math
+from mpl_toolkits.mplot3d import Axes3D
 
 def ackley_function(x1,x2):
   #returns the point value of the given coordinate
