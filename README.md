@@ -12,10 +12,12 @@ To install Ackley Function library execute the following code
 ---
 
 
-```
- import ackley as ak
-```
+```python
+>>> from ackley import ackley_function
+>>> ackley_function(1.4, 2.5)
+8.976885762968559
 
+```
 
 
 **Ackleys Function**

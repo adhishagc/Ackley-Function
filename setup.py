@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="ackley",
-    version="1.0.9.9",
+    version="1.1.0.0",
     description="A Python package to generate Ackley Function values.",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -22,7 +22,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    include_package_data=True,
-    install_requires=["numpy"]
-    
+    #include_package_data=True,
+    install_requires=["numpy", "matplotlib"],
+    packages=['ackley'],    
 )
